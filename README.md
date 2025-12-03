@@ -1,7 +1,7 @@
 
 # 📦  Event System
 
-A lightweight ESX-based event system for FiveM servers. Built for **Sunset** by Gert 👽.
+A lightweight ESX-based event system for FiveM servers.
 
 ---
 
